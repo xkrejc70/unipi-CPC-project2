@@ -3,8 +3,6 @@ CPC - Competitive Programming and Contests - Project: Segment tree
 
 Obtained points: 9/10
 
-# Task
-
 # Hands-on #02: Segment tree
 In this hands-on, we are going to solve two problems with segment trees.
 For each problem, we have a pdf with the description of the problem and a set of tests to check the correctness of your implementations.
